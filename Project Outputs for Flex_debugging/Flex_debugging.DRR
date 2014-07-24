@@ -1,0 +1,16 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Flex_debugging.PcbDoc   7/16/2014  11:50:34 AM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Flex_debugging.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.2mm (7.874mil)         Round          45               146.27 mm (5.76 Inch)
+T2        0.7mm (27.559mil)        Round          2         NPTH   71.37 mm (2.81 Inch)
+T3        0.9mm (35.433mil)        Round          2         NPTH   71.37 mm (2.81 Inch)
+---------------------------------------------------------------------------
+Totals                                            49               289.00 mm (11.38 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

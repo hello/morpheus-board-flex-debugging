@@ -1,0 +1,14 @@
+CAMtasticDXP Drill Report
+Serial Number:0000-00-00000
+Drill File: C:\Users\Dan\Documents\GitHub\morpheus-board-flex-debugging\Project Outputs for Flex_debugging\cam.drl
+Format: 4.2
+Units: Metric (mm.)
+Step & Repeat Codes Used: NO
+
+
+TOOL		SIZE		COUNT
+====		======		=====
+
+ 1 		0.2000		45
+ 2 		0.7000		2
+ 3 		0.9000		2
